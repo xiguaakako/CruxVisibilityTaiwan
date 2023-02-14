@@ -3,7 +3,7 @@ tags: 天文社
 ---
 # 臺灣南十字可見地點分析
 
-![Alt](./CruxByNebula0.jpg “Crux Map”)
+![Alt](./CruxByNebula0.jpg)
 PC: @nebula0
 偷來修了一下> <
 
