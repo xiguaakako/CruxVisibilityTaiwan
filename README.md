@@ -1,6 +1,13 @@
+---
+tags: 天文社
+---
 # 臺灣南十字可見地點分析
 
-<!-- 感覺這裡該放一張南十字的照片 -->
+![Alt](./CruxByNebula0.jpg “Crux Map”)
+PC: @nebula0
+偷來修了一下> <
+
+[Github Repo連結](https://github.com/xiguaakako/CruxVisibilityTaiwan)
 
 ## 緣起
 
@@ -9,6 +16,15 @@
 > [name=煜翔 2023.02.09]
 
 然後就開始了。
+
+## 程式碼使用方法
+
+1. [下載QGIS](https://www.qgis.org/en/site/forusers/download.html)
+2. [下載內政部20公尺網格數值地形模型資料](https://data.gov.tw/dataset/35430)，解壓縮。
+3. 在QGIS內按Ctrl+Alt+P開啟Python主控台，按上方紙張按鈕「顯示編輯器」。
+4. 按「打開腳本資料」開啟CruxVisibilityMap.py。
+5. 更改第6行的DEM .tif檔路徑、第129行的列印範圍。
+6. 執行。
 
 ## 假設
 
